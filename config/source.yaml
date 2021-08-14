@@ -2,7 +2,8 @@
 - type: webfuzzsub
   options:
     url: https://raw.githubusercontent.com/du5/free/master/sub.list
-
+    url: https://raw.githubusercontent.com/iam7cn/Clash/main/Subscription/sub.list
+    
 # 订阅链接
 - type: subscribe
   options:
@@ -12,13 +13,87 @@
 - type: webfuzz
   options:
     url: https://merlinblog.xyz/wiki/freess.html
+    
+- type: webfuzz
+  options:
+    url: https://zfjvpn.gitbook.io/123/
 
 # tg频道抓取
 - type: tgchannel
   options:
     channel: ssrList
     num: 200
-
+    
+- type: tgchannel
+  options:
+    channel: subssr
+    num: 200
+    
+- type: tgchannel
+  options:
+    channel: xiaoyao_1234
+    num: 200
+    
+- type: tgchannel
+  options:
+    channel: ShadowsocksRssr
+    num: 200
+    
+- type: tgchannel
+  options:
+    channel: fanqiangdang
+    num: 200
+    
+- type: tgchannel
+  options:
+    channel: ssrshares
+    num: 200
+    
+- type: tgchannel
+  options:
+    channel: freessbest
+    num: 200
+    
+- type: tgchannel
+  options:
+    channel: FFFREE2
+    num: 200
+    
+- type: tgchannel
+  options:
+    channel: zyfx888
+    num: 200
+    
+- type: tgchannel
+  options:
+    channel: freeshadowsock
+    num: 200
+    
+- type: tgchannel
+  options:
+    channel: SSRSUB
+    num: 200
+    
+- type: tgchannel
+  options:
+    channel:  dangzhibu
+    num: 200
+    
+- type: tgchannel
+  options:
+    channel: byxiaoxi
+    num: 200  
+    
+- type: tgchannel
+  options:
+    channel:  ivmess
+    num: 200
+    
+- type: tgchannel
+  options:
+    channel: cnhumanright99
+    num: 200
+    
 # 翻墙党论坛抓取
 - type: web-fanqiangdang
   options:
